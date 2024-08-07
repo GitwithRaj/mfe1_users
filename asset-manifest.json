@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/mfe1_users/static/js/main.40047a4f.js",
+    "main.js": "/mfe1_users/static/js/main.eaf6514f.js",
     "index.html": "/mfe1_users/index.html",
-    "main.40047a4f.js.map": "/mfe1_users/static/js/main.40047a4f.js.map"
+    "main.eaf6514f.js.map": "/mfe1_users/static/js/main.eaf6514f.js.map"
   },
   "entrypoints": [
-    "static/js/main.40047a4f.js"
+    "static/js/main.eaf6514f.js"
   ]
 }
