@@ -83,7 +83,7 @@ const App = () => {
         ))}
       </ul>
     </div>
-    <a href='http://localhost:3001/'>Posts</a>
+    <a href='https://gitwithraj.github.io/mfe2_posts/'>Posts</a>
     </div>
   );
 };
